@@ -2,115 +2,95 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Mohammed Saleh Sadeqi
+  given: Mohammed Saleh
+  family: Sadeqi
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🧬"
+role: Undergraduate Researcher in Cell and Molecular Biology
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Mohammed Saleh Sadeqi is an undergraduate researcher in Cell and Molecular Biology at Shahid Beheshti University. His research interests lie in metabolic engineering, synthetic biology, and natural product biosynthesis. He aims to develop sustainable, cost-effective biosynthetic pathways for the pharmaceutical and food industries. He is available 20 hours per week in Tehran.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Shahid Beheshti University
+    url: https://www.sbu.ac.ir/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:mohammadsa.sadeghi@mail.sbu.ac.ir
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/saleh05-59
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: "" # ADD YOUR LINKEDIN URL HERE
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: "" # ADD YOUR ORCID URL HERE
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Metabolic engineering
+  - Synthetic biology
+  - Natural product biosynthesis
+  - Enzymology
+  - Analytical chemistry
+  - Drug discovery
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: BSc in Cell and Molecular Biology
+    institution: Shahid Beheshti University
+    start: "" # ADD YOUR START DATE (e.g. 2022-09-01)
+    end: "" # ADD YOUR EXPECTED GRADUATION DATE
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      GPA: 18.25/20
+      Relevant Coursework: Biochemistry I & II; Molecular Biology of Prokaryotes; Molecular Genetics; Microbiology; Biostatistics and Computer.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Molecular Genetics Trainee
+    org: Sensome Institute, Shahid Beheshti University of Medical Sciences
+    start: "" # ADD START DATE IF KNOWN
+    end: "" # ADD END DATE IF KNOWN
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Performed DNA extraction and various PCR techniques. Prepared buffers and reagents; performed accurate pipetting under sterile conditions. Conducted gel electrophoresis to analyze nucleic acid products. Handled mice and collected blood samples following standard laboratory protocols. Applied microscopy, staining, bacterial culture, and cell culture techniques.
 
 skills:
-  - name: Technical Skills
+  - name: Laboratory Skills
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: PCR & Gel Electrophoresis
         level: 4
-  - name: Research & Communication
+      - label: DNA/RNA Extraction
+        level: 4
+      - label: Cell Culture & Microscopy
+        level: 4
+      - label: Mouse Handling & Blood Collection
+        level: 3
+  - name: Computational & Research
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+      - label: Python (Basic)
+        level: 2
+      - label: Biostatistics
+        level: 3
+      - label: Academic Writing & Editorial
         level: 4
 
 languages:
-  - name: English
+  - name: Persian
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
-    label: Fluent
+    label: Advanced (Duolingo 120-130)
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: Temporary Head
+    awarder: Primer (Genetics Journal), Shahid Beheshti University
+    date: ""
+    summary: Coordinated editorial tasks and contributed to journal planning.
+    icon: hero/user-group
+  - title: LinkedIn Manager
+    awarder: Plant, Algae, and Environment
+    date: ""
+    summary: Managed LinkedIn content and engagement.
+    icon: brands/linkedin
