@@ -13,7 +13,7 @@ status:
   icon: "🧬"
 role: Undergraduate Researcher in Cell and Molecular Biology
 bio: |
-  Mohammed Saleh Sadeqi is an undergraduate researcher in Cell and Molecular Biology at Shahid Beheshti University. His research interests lie in metabolic engineering, synthetic biology, and natural product biosynthesis. He aims to develop sustainable, cost-effective biosynthetic pathways for the pharmaceutical and food industries. He is available 20 hours per week in Tehran.
+  Mohammed Saleh Sadeqi is an undergraduate researcher in Cell and Molecular Biology at Shahid Beheshti University. His research interests lie in metabolic engineering, synthetic biology, and natural product biosynthesis. He aims to develop sustainable, cost-effective biosynthetic pathways for the pharmaceutical and food industries.
 
 affiliations:
   - name: Shahid Beheshti University
@@ -26,9 +26,9 @@ links:
   - icon: brands/github
     url: https://github.com/saleh05-59
   - icon: brands/linkedin
-    url: "" # ADD YOUR LINKEDIN URL HERE
+    url: "https://github.com/saleh05-59" # ADD YOUR LINKEDIN URL HERE
   - icon: academicons/orcid
-    url: "" # ADD YOUR ORCID URL HERE
+    url: "https://orcid.org/0009-0008-4860-0052" # ADD YOUR ORCID URL HERE
 
 interests:
   - Metabolic engineering
@@ -41,8 +41,8 @@ interests:
 education:
   - degree: BSc in Cell and Molecular Biology
     institution: Shahid Beheshti University
-    start: "" # ADD YOUR START DATE (e.g. 2022-09-01)
-    end: "" # ADD YOUR EXPECTED GRADUATION DATE
+    start: "2024-09-22" # ADD YOUR START DATE (e.g. 2022-09-01)
+    end: "2027-06-22" # ADD YOUR EXPECTED GRADUATION DATE
     summary: |
       GPA: 18.25/20
       Relevant Coursework: Biochemistry I & II; Molecular Biology of Prokaryotes; Molecular Genetics; Microbiology; Biostatistics and Computer.
@@ -50,7 +50,7 @@ education:
 experience:
   - role: Molecular Genetics Trainee
     org: Sensome Institute, Shahid Beheshti University of Medical Sciences
-    start: "" # ADD START DATE IF KNOWN
+    start: "2025-01-01" # ADD START DATE IF KNOWN
     end: "" # ADD END DATE IF KNOWN
     summary: |
       Performed DNA extraction and various PCR techniques. Prepared buffers and reagents; performed accurate pipetting under sterile conditions. Conducted gel electrophoresis to analyze nucleic acid products. Handled mice and collected blood samples following standard laboratory protocols. Applied microscopy, staining, bacterial culture, and cell culture techniques.
