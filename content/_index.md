@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV___Harvard_like-1.pdf
       headings:
         about: ''
         education: ''
@@ -42,7 +42,7 @@ sections:
 
         I am particularly interested in developing sustainable, cost-effective biosynthetic pathways for the pharmaceutical and food industries. I have hands-on laboratory experience in molecular genetics, including DNA extraction, PCR, and gel electrophoresis.
 
-        I am currently seeking research opportunities to further develop my skills in enzymology and analytical chemistry. **Feel free to [reach out by email](mailto:mohammadsa.sadeghi@mail.sbu.ac.ir) if you'd like to collaborate.**
+        I am currently seeking research opportunities to further develop my skills in enzymology and analytical chemistry. Please feel free to reach out to collaborate!
     design:
       columns: '1'
 ---
