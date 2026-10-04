@@ -12,5 +12,5 @@ I am an undergraduate researcher in Cell and Molecular Biology at Shahid Behesht
 ## Contact
 
 - 📧 Email: mohammadsa.sadeghi@mail.sbu.ac.ir
-- 💼 LinkedIn: [Add your LinkedIn URL here]
-- 🆔 ORCID: [Add your ORCID URL here]
+- 💼 LinkedIn: [https://www.linkedin.com/in/mohammad-saleh-sadeqi-932113343/]
+- 🆔 ORCID: [https://orcid.org/0009-0008-4860-0052]
