@@ -45,7 +45,7 @@ sections:
         I am currently seeking research opportunities to further develop my skills in enzymology and analytical chemistry. Please feel free to reach out to collaborate!
     design:
       columns: '1'
-    - block: cta-card
+  - block: cta-card
     content:
       title: 🤝 Let's Connect
       text: I am currently seeking research opportunities in molecular biology. Feel free to reach out!
